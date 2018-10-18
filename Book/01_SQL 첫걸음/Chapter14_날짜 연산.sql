@@ -1,0 +1,12 @@
+/*
+Chapter14. 날짜 연산
+
+- CURRENT_TIMESTAMP CURRENT_DATE INTERVAL
+*/
+
+SELECT CURRENT_TIMESTAMP;
+# 현재 시간을 보여줍니다.
+
+
+SELECT CURRENT_TIMESTAMP + INTERVAL 7 DAY;
+# 현재에서 7일후의 날짜와 시간을 보여줍니다.
