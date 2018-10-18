@@ -4,7 +4,6 @@ Chapter08. 패턴 매칭에 의한 검색
 - 열 LIKE 패턴
 - % : 임의의 문자열을 의미합니다.
 - _ : 임의의 문자 하나를 의미합니다.
-
 */
 
 SELECT * FROM sample25 WHERE text LIKE "SQL%";

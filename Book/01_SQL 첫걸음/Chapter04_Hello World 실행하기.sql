@@ -4,6 +4,7 @@ Chapter04. Hello World 실행하기
 - MySQL에서 Hello World라고 할 수 있는 명령어는 SELECT입니다.
 - SELECT * FROM 테이블명; 
 */
+
 SELECT * FROM sample21; # sample21 테이블에서 모든 데이터를 가져오겠습니다.
 
 /*
